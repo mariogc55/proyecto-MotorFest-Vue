@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Corolla",
+        "brand": "Toyota",
+        "year": 2022,
+        "price": 25000,
+        "description": "Un sedán confiable y eficiente, ideal para uso diario.",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_5f198c2718fb4374894a07d61d75e053.webp",
+        "colors": {
+            "white": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_5f198c2718fb4374894a07d61d75e053.webp",
+            "black": "https://dealerimages.dealereprocess.com/image/upload/c_limit,f_auto,fl_lossy,w_600/v1/svp/dep/22toyotacorollahyblesd12a/toyota_22corollahyblesd12a_angularfront_blacksandpearl",
+            "blue": "https://di-enrollment-api.s3.amazonaws.com/toyota/models/2022/corolla/colors/BLUE+CRUSH+METALLIC+W_+BLACK+SAND+PEARL+ROOF.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mustang",
+        "brand": "Ford",
+        "year": 2021,
+        "price": 45000,
+        "description": "Un icónico deportivo americano con potente rendimiento.",
+        "image": "https://images.unsplash.com/photo-1601614742468-1e434e7a683a?q=80&w=3540&auto=format&fit=crop",
+        "colors": {
+            "red": "https://images.unsplash.com/photo-1601614742468-1e434e7a683a?q=80&w=3540&auto=format&fit=crop",
+            "black": "https://i.imgur.com/y8W6nE3.jpeg",
+            "silver": "https://dbhdyzvm8lm25.cloudfront.net/stills_0640_png/MY2021/15024/15024_st0640_116.png"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Model 3",
+        "brand": "Tesla",
+        "year": 2023,
+        "price": 50000,
+        "description": "Vehículo eléctrico de alta tecnología con gran autonomía.",
+        "image": "https://media.motorfuse.com/img.cfm/type/3/img/0F16CD4A4F04D7D5C3E6ADC3C6240110F5CB41",
+        "colors": {
+            "white": "https://media.motorfuse.com/img.cfm/type/3/img/0F16CD4A4F04D7D5C3E6ADC3C6240110F5CB41",
+            "blue": "https://vexstockimages.fastly.carvana.io/stockimages/2019_Tesla_Model%203_Performance%20Sedan%204D_BLUE_stock_desktop_1920x1080.png",
+            "gray": "https://cdn.motor1.com/images/mgl/7ZmAMp/s3/tesla-model-3-in-midnight-silver-metallic.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Civic",
+        "brand": "Honda",
+        "year": 2022,
+        "price": 28000,
+        "description": "Un sedán confiable y con un diseño moderno.",
+        "image": "https://i.imgur.com/s65R3gG.jpeg",
+        "colors": {
+            "white": "https://i.imgur.com/s65R3gG.jpeg",
+            "black": "https://i.imgur.com/lY5nE5G.jpeg",
+            "gray": "https://i.imgur.com/CgX9tBq.jpeg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "X5",
+        "brand": "BMW",
+        "year": 2021,
+        "price": 60000,
+        "description": "Un SUV de lujo con una experiencia de conducción superior.",
+        "image": "https://i.imgur.com/f9WvP0b.jpeg",
+        "colors": {
+            "white": "https://i.imgur.com/f9WvP0b.jpeg",
+            "black": "https://i.imgur.com/L1Z0M6t.jpeg",
+            "silver": "https://i.imgur.com/o3V8e5W.jpeg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "C-Class",
+        "brand": "Mercedes-Benz",
+        "year": 2022,
+        "price": 55000,
+        "description": "Elegancia y tecnología se unen en este sedán de alta gama.",
+        "image": "https://i.imgur.com/n1L9J4C.jpeg",
+        "colors": {
+            "white": "https://i.imgur.com/n1L9J4C.jpeg",
+            "black": "https://i.imgur.com/D4sX75v.jpeg",
+            "blue": "https://i.imgur.com/E1uG2Hl.jpeg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Challenger SRT Demon",
+        "brand": "Dodge",
+        "year": 2023,
+        "price": 90000,
+        "description": "Un muscle car icónico, conocido por su potencia y aparición en películas como 'Fast & Furious'.",
+        "image": "https://www.dodgegarage.com/assets/img/demon-170/jellybeans/PR3_BODY.webp",
+        "colors": {
+            "red": "https://www.dodgegarage.com/assets/img/demon-170/jellybeans/PR3_BODY.webp",
+            "black": "https://www.dodgegarage.com/assets/img/demon-170/jellybeans/PX8_BODY.webp",
+            "silver": "https://www.dodgegarage.com/assets/img/demon-170/jellybeans/PSE_BODY.webp"
+        }
+    },
+    {
+        "id": 8,
+        "name": "DeLorean DMC-12",
+        "brand": "DeLorean",
+        "year": 1981,
+        "price": 75000,
+        "description": "El coche de la película 'Back to the Future', famoso por sus puertas de gaviota y diseño de acero inoxidable.",
+        "image": "https://i.imgur.com/FwW7fC1.jpeg",
+        "colors": {
+            "gray": "https://i.imgur.com/FwW7fC1.jpeg",
+            "black": "https://i.imgur.com/vHq5fH6.jpeg",
+            "red": "https://i.imgur.com/C7fC7bI.jpeg"
+        }
+    }
+]
