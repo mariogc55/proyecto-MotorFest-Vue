@@ -13,5 +13,5 @@
 </template>
 
 <script setup>
-// Asegúrate de que no haya código que dependa de props o datos no existentes.
+// not yeet, still in progress and this is just a practice page
 </script>
